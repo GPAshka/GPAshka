@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### Pavlo Goncharenko is here.
-
 I am a Team Lead / Senior Software Engineer, who is passionate about software architecture, distributed systems, and cloud computing.
 
 Here are some facts about me:
